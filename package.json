@@ -3,7 +3,7 @@
 {
   "thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_news_articlelist.svg",
   "tag": "NRTest",
-  "affiliates":["wnow"],
+  "affiliates":["wnow,wnow,griffin,kotv"],
   "propTypes": {
     "title": "PropTypes.string",
     "layout": "PropTypes.string"
